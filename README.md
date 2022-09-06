@@ -1,12 +1,12 @@
 # Automatic_Ticket_Classification
-Classification of Customer Complaints into following Categories
+A financial company that wants to automate its customer support tickets system.The goal is to classify the customer complaints into the fllowing categories
 
-    Credit card / Prepaid card
+    1.Credit card / Prepaid card
 
-    Bank account services
+    2.Bank account services
 
-    Theft/Dispute reporting
+    3.Theft/Dispute reporting
 
-    Mortgages/loans
+    4.Mortgages/loans
 
-    Others 
+    5.Others 
